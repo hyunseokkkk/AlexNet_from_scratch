@@ -1,0 +1,15 @@
+# ninja log v5
+108	1319	7585781319323216	CMakeFiles/Alexnet.dir/src/Optimizer.cpp.obj	1461b2e9c3a1ffb1
+64	1301	7585781319130196	CMakeFiles/Alexnet.dir/src/ConvLayer.cpp.obj	bab29dbd27892d8b
+75	1315	7585781319272359	CMakeFiles/Alexnet.dir/src/FullyConnectedLayer.cpp.obj	5f9cbe9c2307ec1a
+52	1092	7585781317046220	CMakeFiles/Alexnet.dir/src/Layer.cpp.obj	1cd94bd48c6e58e7
+96	1415	7585781320270231	CMakeFiles/Alexnet.dir/src/Model.cpp.obj	318f9223393a9a3b
+50	1893	7586263060037461	CMakeFiles/Alexnet.dir/main.cpp.obj	fcf7632cb5dc8c7e
+58	2024	7585735969988161	CMakeFiles/Alexnet.dir/src/Dataset.cpp.obj	501765ac1375f4d0
+729	1091	7586282141220839	Alexnet.exe	965a7a5d636a037a
+28	729	7586282137666962	CMakeFiles/Alexnet.dir/src/Tensor.cpp.obj	2741657d2c4b7eab
+61	729	7586385523594245	build.ninja	ae668c03757fc881
+44	646	7585737293075774	CMakeFiles/Alexnet.dir/src/LossFunc.cpp.obj	2f6fb8d80985906c
+126	1659	7585735966314777	CMakeFiles/Alexnet.dir/src/DataLoader.cpp.obj	d9fe3ec70ab266d0
+132	1458	7585781320718271	CMakeFiles/Alexnet.dir/src/PoolingLayer.cpp.obj	ce10f95a30af23c4
+174	314	7584730292276749	CMakeFiles/Alexnet.dir/src/ActivationFunc.cpp.obj	fd46635610b76431
